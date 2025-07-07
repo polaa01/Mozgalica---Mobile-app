@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Mozgalica</string>
+    <string name="title_activity_main_menu">MainMenuActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Podesavanja</string>
+    <string name="change_language">Izaberi jezik:</string>
+
+    <string name="math">Matematicki kviz</string>
+    <string name="anagrams">Anagrami</string>
+    <string name="memory">Igra memorije</string>
+
+    <string name="choose_game">Izaberite igru:</string>
+
+    <string name="login">Prijavi se</string>
+    <string name="enter_username">Unesite korisnicko ime</string>
+
+    <string name="correct">Tacno</string>
+    <string name="wrong">Netacno</string>
+
+    <string name="correct_word">Unesite tacnu rijec</string>
+
+    <string name="res">Rezultat</string>
+
+    <string name="won">Osvojili ste</string>
+    <string name="time">Vrijeme</string>
+    <string name="points">bodova</string>
+
+    <string name="confirm">Potvrdi</string>
+
+    <string name="yes">Da</string>
+    <string name="no">Ne</string>
+
+    <string name="new_game">Nova partija</string>
+    <string name="question">Da li zelite da igrate novu partiju?</string>
+
+    <string name="welcome_back">Dobrodosli nazad!</string>
+
+    <string name="err">Greska prilikom kreiranja korisnika!</string>
+
+    <string name="user_created">Korisnik uspjesno kreiran!</string>
+
+    <string name="outOf">od</string>
+
+    <string name="logout_confirmation">Da li zelite da se odjavite?</string>
+
+    <string name="search">Pretrazi</string>
+    <string name="search_by">Pretrazi po igri, imenu ili poenima...</string>
+
+    <string name="logout">Odjava</string>
+
+    <string name="menu_home">Pocetna</string>
+    <string name="menu_game_history">Istorija rezultata</string>
+    <string name="menu_game_details">Detalji igrica</string>
+    <string name="menu_settings">Podesavanja</string>
+    <string name="serbian">Srpski</string>
+    <string name="english">Engleski</string>
+    <string name="details">Detalji</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="anagrams_desc">Odgovor na 10 nasumicno postavljenih anagrama (rijeci kojima su slova izmijesana).</string>
+    <string name="anagrams_rules">U prazno polje se upisuje odgovarajuca rijec.</string>
+    <string name="anagrams_scoring">Ukoliko je upisana rijec ujedno i trazena rijec, osvaja se 1 bod. Maksimalan broj bodova je 10.</string>
+
+    <string name="math_desc">Odgovor na 10 nasumicno postavljenih jednostavnih matematickih zadataka.</string>
+    <string name="math_rules">Svaki zadatak ima 3 ponudjena odgovora. Samo jedan odgovor je tacan.</string>
+    <string name="math_scoring">Ukoliko se tacno odgovori, osvaja se 1 bod. Maksimalan broj bodova je 10.</string>
+
+
+    <string name="memory_desc">Potraga za parovima identicnih simbola i testiranje memorijskih sposobnosti.</string>
+    <string name="memory_rules">Klikom na polje otvara se kartica sa slikom. Klikom na bilo koje drugo polje, trazite potencijalnog parnjaka. Ukoliko ne pronadjete par istih simbola, oni se vracaju u prvobitno stanje. Ukoliko pronadjete par, slike ostaju trajno okrenute licem prema gore.</string>
+    <string name="memory_scoring">Ukoliko uspjesno pronadjete par, to vam donosi 1 bod. Maksimalan broj bodova je 6.</string>
+</resources>

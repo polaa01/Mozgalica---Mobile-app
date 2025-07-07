@@ -1,0 +1,84 @@
+<resources>
+    <string name="app_name">Mozgalica</string>
+    <string name="title_activity_main_menu">MainMenuActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="change_language">Choose language:</string>
+    <string name="choose_game">Choose game:</string>
+
+    <string name="login">Login</string>
+    <string name="enter_username">Enter username</string>
+
+    <string name="correct">Correct</string>
+    <string name="wrong">Wrong</string>
+
+    <string name="confirm">Confirm</string>
+
+    <string name="correct_word">Enter correct word</string>
+
+    <string name="res">Result</string>
+
+    <string name="won">You have won</string>
+
+    <string name="points">points</string>
+
+    <string name="outOf">out of</string>
+
+    <string name="time">Time</string>
+
+    <string name="math">Math quiz</string>
+    <string name="anagrams">Anagrams</string>
+    <string name="memory">Memory game</string>
+
+    <string name="new_game">New game</string>
+    <string name="question">Do you want to start new game?</string>
+
+    <string name="user_created">User created successfully!</string>
+
+    <string name="welcome_back">Welcome back!</string>
+
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+
+    <string name="search">Search</string>
+    <string name="search_by">Search by game, username or scores...</string>
+
+    <string name="err">An error occured while creating new user!</string>
+
+    <string name="logout">Logout</string>
+
+    <string name="logout_confirmation">Are you sure you want to logout?</string>
+
+
+    <string name="menu_home">Home</string>
+    <string name="menu_game_history">Game history</string>
+    <string name="menu_game_details">Game details</string>
+    <string name="menu_settings">Settings</string>
+    <string name="serbian">Serbian</string>
+    <string name="english">English</string>
+
+    <string name="details">Details</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+    <string name="anagrams_desc">Answer to 10 randomly placed anagrams (words in which the letters are mixed up).</string>
+    <string name="anagrams_rules">The corresponding word need to be written in the empty field.</string>
+    <string name="anagrams_scoring">If the entered word is also the searched word, 1 point is won. The maximum number of points is 10.</string>
+
+
+    <string name="math_desc">Answers to 10 random simple math problems.</string>
+    <string name="math_rules">Each task has 3 possible answers. Only one answer is correct.</string>
+    <string name="math_scoring">If the answer is correct, 1 point is won. The maximum number of points is 10.</string>
+
+
+    <string name="memory_desc">Search for pairs of identical symbols and test memory skills.</string>
+    <string name="memory_rules">Clicking on a field opens a card with a picture. Clicking on any other field, you search for a potential match. If you do not find a pair of the same symbols, they return to their original state. If you find a pair, the pictures remain permanently face up.</string>
+    <string name="memory_scoring">If you successfully find a pair, you get 1 point. The maximum number of points is 6.</string>
+
+
+</resources>
